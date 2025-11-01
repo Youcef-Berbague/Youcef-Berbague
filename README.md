@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **three.js**
 
-- 💬 Ask me about **vue.js, express.js, node.js, prisma, postgresql, sql, jvascript, css .....etc**
+- 💬 Ask me about my core stack includes: **vue.js, express.js, node.js, prisma, postgresql, sql, javascript, css, tailwindcss, backends security (IDS/IDM)**
 
 - 📫 How to reach me **youcef-almahdi.berbague@univ-annaba.dz**
 

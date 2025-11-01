@@ -2,12 +2,12 @@
 <h3 align="center">Full-Stack Developer with a Security-First Mindset</h3>
 
 <p align="center">
-  I'm a full-stack developer specializing in building secure and scalable web applications. As a cybersecurity student, I integrate modern security principles (like OWASP Top 10) into every project, with a special focus on **backend security (IDS/IDM)** .
+  I'm a full-stack developer specializing in building secure and scalable web applications. As a cybersecurity student, I integrate modern security principles (like OWASP Top 10) into every project, with a special focus on <strong>backend security (IDS/IDM)</strong> .
   <br />
   <br />
-  🔭 I’m currently building my startup project & expanding my skills in 3D web development with **three.js** .
+  🔭 I’m currently building my startup project & expanding my skills in 3D web development with <strong>three.js</strong> .
   <br />
-  📫 I am open to freelance opportunities: **youcef-almahdi.berbague@univ-annaba.dz**
+  📫 I am open to freelance opportunities: <strong>youcef-almahdi.berbague@univ-annaba.dz</strong>
 </p>
 
 <br />

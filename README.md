@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer with a Security-First Mindset</h3>
 
 <p align="center">
-  I'm a full-stack developer specializing in building secure and scalable web applications. As a cybersecurity student, I integrate modern security principles (like OWASP Top 10) into every project, with a special focus on <strong>backend security (IDS/IDM)</strong> .
+  I'm a full-stack developer specializing in building secure and scalable web applications. As a cybersecurity student, I integrate modern security principles (like OWASP Top 10) into every project, with a special focus on <strong>backend security (IDS/IPS/IDPS)</strong> .
   <br />
   <br />
   🔭 I’m currently building my startup project & expanding my skills in 3D web development with <strong>three.js</strong> .
